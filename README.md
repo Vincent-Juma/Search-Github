@@ -1,6 +1,34 @@
 # GitSearch
 
+Project name: Search-Github
+
+Project Description: This project is about API meant to search various Github accounts using Github username
+It is entirely angular built.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.1.4.
+
+The project has been compiled by  <a href='https://github.com/Vincent-Juma/Search-Github'>Vincent-Juma</a>
+Mobile No. 0722250875
+email address: vincentjuma64@gmail.com.
+
+Technologies applied:
+
+
+<ol>
+<li>HTML</li>
+<li>CSS</li>
+<li>ANGULAR JS</li>
+<li>JAVASCRIPT</li>
+<li>TYPESCRIPT</li>
+
+</ol>
+
+Follow the below procedures for launching:
+
+To launch,
+
+ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
+
 
 ## Development server
 
