@@ -32,6 +32,5 @@ export class GithubComponent implements OnInit {
       console.log(this.repos);
     });
   }
-
   ngOnInit() {}
 }
