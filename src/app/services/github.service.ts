@@ -4,13 +4,12 @@ import { HttpClient } from "@angular/common/http";
   providedIn: "root"
 })
 export class GithubService {
-
   private username = 'Vincent-Juma';
   private client_id = '02fb1cb9cc7e0054c646';
   private client_secret='ab40697c89af8c3b801f7e0f85d7a7f1e4cc0682';
   
   constructor(private http: HttpClient) {
-    console.log("Github service started");
+    console.log("Github is initializing..");
   }
   getUser() {
     return this.http.get(
